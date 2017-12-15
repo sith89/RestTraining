@@ -1,0 +1,33 @@
+{
+  "SyscoEmpDetails": [
+    {
+      "id": 1,
+      "title": "SE",
+      "name" : "Emp01",
+      "salary":"1000"
+    },
+    {
+      "id": 2,
+      "title": "QE",
+      "name" : "Emp02",
+      "salary":"2000"
+    },
+    {
+      "id": 3,
+      "title": "OE",
+      "name" : "Emp03",
+      "salary":"3000"
+    },
+
+
+  ],
+  "products": {
+    "product1": "cakePOS",
+    "product2": "cakeManager",
+    "product3": "BTconnect",
+    
+  }
+
+
+
+}
